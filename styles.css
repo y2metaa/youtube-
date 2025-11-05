@@ -37,6 +37,9 @@ header .container {
      text-decoration: none;
      color: white;
 }
+a:hover{
+    color: #c92317;
+}
 a {
   text-decoration: none;  
 }
@@ -147,6 +150,7 @@ ol, ul{
         font-size: 1.8rem;
     }
 }
+
 
 
 
