@@ -37,11 +37,9 @@ header .container {
      text-decoration: none;
      color: white;
 }
-a:hover{
-    color: #c92317;
-}
 a {
-  text-decoration: none;  
+  text-decoration: none; 
+  color: #b30000;
 }
 nav ul {
     list-style: none;
@@ -150,6 +148,7 @@ ol, ul{
         font-size: 1.8rem;
     }
 }
+
 
 
 
