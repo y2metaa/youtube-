@@ -33,7 +33,7 @@ header .container {
     font-size: 1.8rem;
     font-weight: bold;
 }
-.logo-text {
+.logo-text, hover:.logo-text {
      text-decoration: none;
      color: white;
 }
@@ -150,6 +150,7 @@ ol, ul{
         font-size: 1.8rem;
     }
 }
+
 
 
 
